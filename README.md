@@ -1,1 +1,1 @@
-# eecs448-college-subreddits-comment-generation
+# eecs448-CollegeSubredditsCommentGeneration
